@@ -84,11 +84,8 @@ defined('BASEPATH') or exit('No direct script access allowed');
 		<p>selamat datang</p>
 
 		<div id="body">
-			<p>belajar github tentang marge</p>
-
-
-			<p>The corresponding controller for this page is found at:</p>
-			<code>application/controllers/Welcome.php</code>
+			<p>belajar github tentang marge</p>	
+			<p>pada hari kamis jam 10:13</p>
 
 			<p>If you are exploring CodeIgniter for the very first time, you should start by reading the <a href="user_guide/">zahratul jannah</a>.</p>
 		</div>
