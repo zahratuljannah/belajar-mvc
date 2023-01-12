@@ -80,7 +80,11 @@ defined('BASEPATH') or exit('No direct script access allowed');
 		<h1>Welcome to CodeIgniter!</h1>
 		<h1>belajar git hub</h1>
 		<h1>hello world</h1>
-
+		<h1>Welcome to CodeIgniter Telkom!</h1>
+		<h1>belajar git hub</h1>
+		<h1>hello world</h1>
+		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta maiores cupiditate magnam, a dignissimos dicta eum beatae pariatur praesentium similique.</p>
+		<p>selamat datang</p>
 
 		<div id="body">
 			<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
@@ -91,12 +95,13 @@ defined('BASEPATH') or exit('No direct script access allowed');
 			<p>The corresponding controller for this page is found at:</p>
 			<code>application/controllers/Welcome.php</code>
 
-			<p>If you are exploring CodeIgniter for the very first time, you should start by reading the <a href="user_guide/">User Guide</a>.</p>
+			<p>If you are exploring CodeIgniter for the very first time, you should start by reading the <a href="user_guide/">zahratul jannah</a>.</p>
 		</div>
 
 		<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
+		Damar dev
 	</div>
-	<div> Ini dari SIT HOTFIX</div>
+
 </body>
 
 </html>
