@@ -86,8 +86,6 @@ defined('BASEPATH') or exit('No direct script access allowed');
 		<div id="body">
 			<p>belajar github tentang marge</p>
 
-			<p>If you would like to edit this page you'll find it located at:</p>
-			<code>application/views/welcome_message.php</code>
 
 			<p>The corresponding controller for this page is found at:</p>
 			<code>application/controllers/Welcome.php</code>
