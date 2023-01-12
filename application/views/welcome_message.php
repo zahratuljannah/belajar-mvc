@@ -87,15 +87,33 @@ defined('BASEPATH') or exit('No direct script access allowed');
 		<p>selamat datang</p>
 
 		<div id="body">
+
 			<p>belajar github tentang marge</p>	
 			<p>pada hari kamis jam 10:13</p>
 
 			<p>username :<a href="user_guide/">zahratul jannah</a>.</p>
+			<h2>INI SIT</h2>
+			<p>
+			<h2>INI SIT 2</h2> The page you are looking at is being generated dynamically by CodeIgniter.</p>
+
+			<p>If you would like to edit this page you'll find it located at:</p>
+			<code>application/views/welcome_message.php</code>
+
+			<p>The corresponding controller for this page is found at:</p>
+			<code>
+				<h2>INI SIT 3</h2> application/controllers/Welcome.php
+			</code>
+
+			<p>If you are exploring CodeIgniter for the very first time, you should start by reading the <a href="user_guide/">User Guide</a>.</p>
+
 		</div>
 
 		<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
 		Damar dev
 	</div>
+
+	<h2>INI SIT END</h2>
+	<div> Ini dari SIT HOTFIX</div>
 
 </body>
 
