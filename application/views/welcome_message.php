@@ -81,7 +81,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 	<h1>belajar git hub</h1>
 	<h1>hello world</h1>
 	<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta maiores cupiditate magnam, a dignissimos dicta eum beatae pariatur praesentium similique.</p>
-
+		<p>selamat datang</p>
 
 		<div id="body">
 			<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
